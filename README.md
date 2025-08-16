@@ -8,25 +8,19 @@ I'm a **QA Automation Engineer & Architect**!
 - 👯 Open to **collaborations** in automation, AI & urban tech  
 
 ---
-
 ## 👩‍💻 Programming skills  
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="50" height="50"/>
-  <img src="https://static.cucumber.io/images/cucumber-open/cucumber.png" alt="Cucumber" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/cucumber/cucumber-js/main/docs/images/gherkin-logo.png" alt="Gherkin" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="Reqnroll / .NET" width="50" height="50"/>
-  <img src="https://specflow.org/wp-content/uploads/2020/09/specflow-logo.png" alt="SpecFlow" width="50" height="50"/>
-</p>  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)  
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)  
+![Gherkin](https://img.shields.io/badge/Gherkin-00A859?style=for-the-badge&logo=cucumber&logoColor=white)  
+![Reqnroll](https://img.shields.io/badge/Reqnroll-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)  
+![SpecFlow](https://img.shields.io/badge/SpecFlow-512BD4?style=for-the-badge&logo=.net&logoColor=white)   
 
 ---
 
 ## 🏛️ Architecture & Design skills  
-
-<p align="center">
-  <img src="https://img.icons8.com/color/512/autocad.png" alt="AutoCAD" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/QGIS_logo.svg" alt="QGIS" width="50" height="50"/>
-</p>
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)  
