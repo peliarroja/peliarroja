@@ -15,11 +15,14 @@ I'm a **QA Automation Engineer & Architect**!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="50" height="50"/>
-  <img src="https://static.cucumber.io/images/cucumber-open/cucumber-logo.svg" alt="Cucumber" width="50" height="50"/>
-  <img src="https://gherkin.io/img/gherkin.png" alt="Gherkin" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.svg" alt="Reqnroll / .NET" width="50" height="50"/>
+  <img src="https://static.cucumber.io/images/cucumber-open/cucumber.png" alt="Cucumber" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/cucumber/cucumber-js/main/docs/images/gherkin-logo.png" alt="Gherkin" width="50" height="50"/>
+</p>  
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="Reqnroll / .NET" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>  
 
