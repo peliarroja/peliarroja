@@ -9,18 +9,23 @@ I'm a **QA Automation Engineer & Architect**!
 
 ---
 
-## 🏆 Master skills:  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)  
-![Reqnroll](https://img.shields.io/badge/Reqnroll-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)  
+## 👩‍💻 Programming skills  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="Reqnroll/.NET" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+</p>  
 
 ---
 
-## 📚 Other knowledge:  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![SpecFlow](https://img.shields.io/badge/SpecFlow-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+## 🏛️ Architecture & Design skills  
 
+<p align="left">
+  <img src="https://img.icons8.com/color/512/autocad.png" alt="AutoCAD" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/QGIS_logo_new.svg" alt="QGIS" width="50" height="50"/>
+</p>
